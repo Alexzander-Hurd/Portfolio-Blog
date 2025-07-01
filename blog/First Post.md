@@ -8,8 +8,8 @@ This is just a quick test post to check all of the features work. The list below
 
 - [ ]  [[First Post]] Wiki Links
 - [ ] [[First Post|Aliased Wiki Links]]
-- [ ] Image embeds ![[signature.jpeg]]
-- [ ] Git updates
+- [x] Image embeds ![[signature.jpeg]]
+- [x] Git updates
 - [ ] Automated Git Pull
 - [ ] Automated Tagging and Build
 - [ ] Deploy to staging

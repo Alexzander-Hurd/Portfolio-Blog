@@ -1,0 +1,15 @@
+name: Trigger Web Repo Webhook
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  notify-web-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger webhook on Web Repo
+        run: |
+          curl -X POST ${{ secrets.WEB_REPO_WEBHOOK_URL }}
+          echo "Triggered webhook on Web Repo"

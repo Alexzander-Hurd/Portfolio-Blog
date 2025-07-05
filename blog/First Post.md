@@ -10,7 +10,7 @@ This is just a quick test post to check all of the features work. The list below
 - [x] [[First Post|Aliased Wiki Links]]
 - [x] Image embeds ![[signature.jpeg]]
 - [x] Git updates
-- [ ] Automated Git Pull
-- [ ] Automated Tagging and Build
+- [x] Automated Git Pull
+- [x] Automated Tagging and Build
 - [ ] Deploy to staging
 - [ ] Deploy to prod

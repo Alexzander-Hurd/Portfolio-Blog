@@ -1,0 +1,8 @@
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/themes
+
+# exclude plugins/ but keep the data.json files in order to sync plugin settings
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json
+.obsidian/community-plugins.json

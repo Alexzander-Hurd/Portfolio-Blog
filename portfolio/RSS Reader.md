@@ -9,11 +9,8 @@ heroImage: ../../../public/images/rss_reader-hero.png
 **Quick Stats:**
 
 - **Tech stack:** ASP.NET Core MVC, SQLite, C#, HTML/CSS/JS
-    
 - **Current version:** WIP (core RSS features working)
-    
 - **Planned features:** JSON feed + API support, webhooks, plugin architecture, PWA mode
-    
 - **GitHub stars/forks/issues:** 
 <p><a href="https://github.com/Alexzander-Hurd/RSS-Reader/stargazers">
   <img src="https://img.shields.io/github/stars/Alexzander-Hurd/RSS-Reader?style=for-the-badge" alt="GitHub stars" />

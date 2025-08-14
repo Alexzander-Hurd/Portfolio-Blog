@@ -8,10 +8,10 @@ heroImage: ../../../public/images/wsl_translate-hero.png
 
 **Quick Stats:**
 
-- **Tech stack** - Bash, Zsh, Shell
-- **Current version** - Beta 0.1 (Mostly complete may need tweeks)
-- **Planned features** - None
-- **GitHub stars/forks/issues** - 
+- Tech stack - Bash, Zsh, Shell
+- Current version - Beta 0.1 (Mostly complete may need tweeks)
+- Planned features - None
+- GitHub stars/forks/issues - 
 <p><a href="https://github.com/Alexzander-Hurd/WSL_Translate/stargazers">
   <img src="https://img.shields.io/github/stars/Alexzander-Hurd/WSL_Translate?style=for-the-badge" alt="GitHub stars" />
 </a>
@@ -27,7 +27,7 @@ heroImage: ../../../public/images/wsl_translate-hero.png
 
 # Overview
 
-**WSL Translate** is a minimal, zero-dependency Bash/Zsh utility that bridges the gap between Windows file paths and the Linux file system used in Windows Subsystem for Linux (WSL). It can be used purely as a path converter or extended to execute common shell commands directly on the translated paths.
+WSL Translate is a minimal, zero-dependency Bash/Zsh utility that bridges the gap between Windows file paths and the Linux file system used in Windows Subsystem for Linux (WSL). It can be used purely as a path converter or extended to execute common shell commands directly on the translated paths.
 
 The tool works with:
 

@@ -8,10 +8,10 @@ heroImage: ../../../public/images/rss_reader-hero.png
 
 **Quick Stats:**
 
-- **Tech stack** - ASP.NET Core MVC, SQLite, C#, HTML/CSS/JS
-- **Current version** - WIP (core RSS features working)
-- **Planned features** - JSON feed + API support, webhooks, plugin architecture, PWA mode
-- **GitHub stars/forks/issues** - 
+- Tech stack - ASP.NET Core MVC, SQLite, C#, HTML/CSS/JS
+- Current version - WIP (core RSS features working)
+- Planned features - JSON feed + API support, webhooks, plugin architecture, PWA mode
+- GitHub stars/forks/issues - 
 <p><a href="https://github.com/Alexzander-Hurd/RSS-Reader/stargazers">
   <img src="https://img.shields.io/github/stars/Alexzander-Hurd/RSS-Reader?style=for-the-badge" alt="GitHub stars" />
 </a>
@@ -29,7 +29,7 @@ heroImage: ../../../public/images/rss_reader-hero.png
 
 **THIS PROJECT IS A WORK IN PROGRESS, SOME FUNCTIONALITY MAY NOT YET BE AVAILABLE**
 
-A self-hosted, personal feed aggregator built in **ASP.NET Core Razor MVC**. Designed to ingest traditional **RSS feeds**, modern **JSON feeds**, and **webhook-based push sources**, with modular mapping support and a plugin-friendly architecture.
+A self-hosted, personal feed aggregator built in ASP.NET Core Razor MVC. Designed to ingest traditional RSS feeds, modern JSON feeds, and webhook-based push sources, with modular mapping support and a plugin-friendly architecture.
 
 # Purpose
 
@@ -78,7 +78,7 @@ The following is a list of some of the top level goals, for a more in depth look
 - Implement schema mapping for JSON sources - allowing custom mapping of fields to my RSS feed model means users can broaden what JSON feeds are possible to integrate
 - Support JSON based APIs - by expanding the schema customisation and accepting API tokens
 - Include Webhook support - at first with a static schema and eventually allowing custom schema maps
-- **Add PWA SUPPORT** - this one is a big one for me, I want something centrally managed and synced that's easy to access from web and mobile
+- Add PWA SUPPORT - this one is a big one for me, I want something centrally managed and synced that's easy to access from web and mobile
 - Build a plugin architecture - there are things that might not be important to me but other people would love, so I planned from the beginning to make something extensible as soon as I get to a project that can stand on its own
 
 # Contributing

@@ -9,8 +9,8 @@ heroImage: ../../../public/images/wsl_translate-hero.png
 **Quick Stats:**
 
 - Tech stack - Bash, Zsh, Shell
-- Current version - Beta 0.1 (Mostly complete may need tweeks)
-- Planned features - None
+- Current version - Beta 0.1 (Mostly complete may need tweaks)
+- Planned features - flag parsing, multi-drive mount support,
 - GitHub stars/forks/issues - 
 <p><a href="https://github.com/Alexzander-Hurd/WSL_Translate/stargazers">
   <img src="https://img.shields.io/github/stars/Alexzander-Hurd/WSL_Translate?style=for-the-badge" alt="GitHub stars" />
@@ -48,8 +48,7 @@ The project solves a straightforward problem while ensuring compatibility with b
 
 # Features
 
-- Converts paths such as  
-  C:\Users\Name\Documents → /mnt/c/Users/Name/Documents
+- Converts paths such as C:\Users\Name\Documents → /mnt/c/Users/Name/Documents
 - Supports optional functions:
   - stdout (default) – output the translated path
   - cd – change directory (only in sourced mode)
@@ -90,16 +89,3 @@ chmod +x wsl_translate.sh
 ```
 
 Optionally, add the script to your $PATH for global use.
-
-# Links
-
-- [View on GitHub](https://github.com/Alexzander-Hurd/WSL_Translate)
-
-# Status
-
-The core functionality is complete and stable. Planned enhancements include:
-
-- Flags and options parsing (--dry-run, --force, etc.)
-- Configurable mounts per drive
-- Shell function wrappers for persistent aliases
-- WSL 2 path convention support

@@ -15,7 +15,7 @@
               "state": {
                 "file": "portfolio/RSS Reader.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "RSS Reader"
@@ -183,6 +183,7 @@
   "lastOpenFiles": [
     "portfolio/WSL Translate.md",
     "portfolio/RSS Reader.md",
+    "images/Pasted image 20250814151052.png",
     "images/rss_reader-hero.png",
     "images/output.gif",
     "images/temp.gif",
@@ -192,7 +193,6 @@
     "images/wsl_translate-demo.gif",
     "images/WSL_Translate-hero.png",
     "images/WSL_Translate-demo.gif",
-    "images/signature.jpeg",
     "images",
     "images2",
     "blog/First Post.md",

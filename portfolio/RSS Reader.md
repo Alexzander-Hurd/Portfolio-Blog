@@ -2,7 +2,7 @@
 title: RSS Reader
 description: A personal feed aggregator built in ASP.NET Core MVC with a simple UI for managing and reading feeds efficiently.
 pubDate: Aug 14 2025
-heroImage: ../../../public/images/rss-reader-hero.png
+heroImage: ../../../public/images/rss_reader-hero.png
 ---
 # Project Link: <a href="https://github.com/Alexzander-Hurd/RSS-Reader"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
 

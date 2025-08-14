@@ -1,7 +1,7 @@
 ---
 title: WSL Translate
 description: This is a small portable shell script built for translating Windows paths in a WSL environment, and optionally performing functions on the result
-pubDate: Aug 13th 2025
+pubDate: Aug 13 2025
 heroImage: /images/WSL_Translate-hero.png
 ---
 ## Overview

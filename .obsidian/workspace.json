@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio/WSL Translate.md",
+                "file": "portfolio/RSS Reader.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "WSL Translate"
+              "title": "RSS Reader"
             }
           }
         ]
@@ -179,20 +179,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "129a3c86f40d5bd0",
+  "active": "067bfe278868ef97",
   "lastOpenFiles": [
-    "images/output.gif",
-    "images/palette.png",
-    "images/temp.gif",
-    "portfolio/RSS Reader.md",
     "portfolio/WSL Translate.md",
+    "portfolio/RSS Reader.md",
+    "images/rss_reader-hero.png",
+    "images/output.gif",
+    "images/temp.gif",
+    "images/palette.png",
+    "images/rss_reader-demo.gif",
+    "images/wsl_translate-hero.png",
+    "images/wsl_translate-demo.gif",
     "images/WSL_Translate-hero.png",
-    "blog/First Post.md",
-    "Untitled",
     "images/WSL_Translate-demo.gif",
     "images/signature.jpeg",
-    "Welcome.md",
     "images",
+    "images2",
+    "blog/First Post.md",
+    "Untitled",
+    "Welcome.md",
     "portfolio",
     "blog"
   ]

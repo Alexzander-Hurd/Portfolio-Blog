@@ -4,6 +4,8 @@ description: This is a small portable shell script built for translating Windows
 pubDate: Aug 13 2025
 heroImage: ../../../public/images/wsl_translate-hero.png
 ---
+# Project Link: <a href="https://github.com/Alexzander-Hurd/WSL_Translate"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
+
 ## Overview
 
 **WSL Translate** is a minimal, zero-dependency Bash/Zsh utility that bridges the gap between Windows file paths and the Linux file system used in Windows Subsystem for Linux (WSL). It can be used purely as a path converter or extended to execute common shell commands directly on the translated paths.

@@ -8,10 +8,10 @@ heroImage: ../../../public/images/wsl_translate-hero.png
 
 **Quick Stats:**
 
-- **Tech stack:** Bash, Zsh, Shell
-- **Current version:** Beta 0.1 (Mostly complete may need tweeks)
-- **Planned features:** None
-- **GitHub stars/forks/issues:** 
+- **Tech stack** - Bash, Zsh, Shell
+- **Current version** - Beta 0.1 (Mostly complete may need tweeks)
+- **Planned features** - None
+- **GitHub stars/forks/issues** - 
 <p><a href="https://github.com/Alexzander-Hurd/WSL_Translate/stargazers">
   <img src="https://img.shields.io/github/stars/Alexzander-Hurd/WSL_Translate?style=for-the-badge" alt="GitHub stars" />
 </a>

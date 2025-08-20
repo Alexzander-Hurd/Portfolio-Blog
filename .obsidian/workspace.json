@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio/WSL Translate.md",
+                "file": "portfolio/Portfolio Website.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "WSL Translate"
+              "title": "Portfolio Website"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,7 +182,11 @@
   },
   "active": "067bfe278868ef97",
   "lastOpenFiles": [
+    "images/website-hero.png",
+    "images/hero.png",
+    "images/ChatGPT Image Aug 20, 2025, 01_29_18 PM.png",
     "portfolio/RSS Reader.md",
+    "portfolio/Portfolio Website.md",
     "portfolio/WSL Translate.md",
     "images/Pasted image 20250814151052.png",
     "images/rss_reader-hero.png",
@@ -191,8 +196,6 @@
     "images/rss_reader-demo.gif",
     "images/wsl_translate-hero.png",
     "images/wsl_translate-demo.gif",
-    "images/WSL_Translate-hero.png",
-    "images/WSL_Translate-demo.gif",
     "images",
     "images2",
     "blog/First Post.md",

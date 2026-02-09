@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portfolio/Portfolio Website.md",
+                "file": "portfolio/Contacts App.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Portfolio Website"
+              "title": "Contacts App"
             }
           }
         ]
@@ -142,27 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/First Post.md",
+                "file": "portfolio/Contacts App.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of First Post"
-            }
-          },
-          {
-            "id": "0fa1922f658ea618",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Contacts App"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,26 +166,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "067bfe278868ef97",
   "lastOpenFiles": [
-    "images/website-hero.png",
-    "images/hero.png",
-    "images/ChatGPT Image Aug 20, 2025, 01_29_18 PM.png",
+    "images/contacts-hero.png",
+    "images/rss_reader-hero.png",
+    "images/wsl_translate-hero.png",
+    "images/wsl_translate-demo.gif",
+    "portfolio/Contacts App.md",
     "portfolio/RSS Reader.md",
     "portfolio/Portfolio Website.md",
     "portfolio/WSL Translate.md",
+    "images/website-hero.png",
+    "images/hero.png",
+    "images/ChatGPT Image Aug 20, 2025, 01_29_18 PM.png",
     "images/Pasted image 20250814151052.png",
-    "images/rss_reader-hero.png",
     "images/output.gif",
     "images/temp.gif",
     "images/palette.png",
-    "images/rss_reader-demo.gif",
-    "images/wsl_translate-hero.png",
-    "images/wsl_translate-demo.gif",
     "images",
     "images2",
     "blog/First Post.md",
